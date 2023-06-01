@@ -27,6 +27,5 @@ We understand the critical role that random numbers play in various domains, inc
 
 ## Reach us
 
-For any inquiries, collaborations, or questions, please feel free to reach out to our team at antenna@noisr.com. We are excited to hear from you and provide the support you need.
-
-Thank you for your interest in the Random Number Generator Team. Let's embrace true randomness and unlock new possibilities together!
+For any inquiries, collaborations, or questions, please feel free to reach out to our team at antenna@noisr.com.
+We are excited to hear from you and provide the support you need.
