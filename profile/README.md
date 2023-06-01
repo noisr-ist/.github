@@ -2,13 +2,22 @@
 
 "God doesn't play dice with the Universe" - said Einstein, mistakenly
 
-## Our Mission
+## About
 
-To change the origin of digital randomness, by providing random number generators based on real random physical phenomena.
+We understand the critical role that random numbers play in various domains, including cryptography, simulations, statistical analysis, and experimental research. We specialize in harnessing genuine physical processes to generate random numbers that exhibit true randomness, ensuring the utmost integrity and reliability for scientific applications.
 
-## Why?
+## Features
 
-Nowadays, most random number generators are, in computational lingo, pseudo-random, this means that, inevitably, there will be patterns that can be detrimental to the application using the RNG.
+# True Physical Randomness:
+Our random numbers are derived from genuine physical phenomena, ensuring an unbiased and unpredictable nature.
+# Diverse Sources:
+We employ an array techniques to extract randomness from different natural processes, guaranteeing a broad range of generators and  distributions.
+# Seamless Integration:
+Our API provides an easy-to-use interface and supports various programming languages and platforms, making it effortless to integrate into your projects.
+## Statistical Analysis:
+You can access every statistical analysis report to ensure the quality and bias of the random numbers generated. Gain deeper insights into their distribution, properties, and quality to validate their suitability for your specific use cases.
+## Biased Random Numbers:
+Recognizing the power of natural biases, we also offer the option to generate biased random numbers that align with specific natural biases. This approach simplifies and removes the computational need for artificial bias implementation in algorithms, making them more intuitive and efficient.
 
 ## Applications
 
@@ -21,4 +30,8 @@ Nowadays, most random number generators are, in computational lingo, pseudo-rand
 - Financial Modeling - Simulation of market dluctuations and risk
 - Physics - Generate random fluctuations in initial conditions for physical problems (ex. brownian motion, fluid mechanics...)
 
-And many others...
+## Reach us
+
+For any inquiries, collaborations, or questions, please feel free to reach out to our team at antenna@noisr.com. We are excited to hear from you and provide the support you need.
+
+Thank you for your interest in the Random Number Generator Team. Let's embrace true randomness and unlock new possibilities together!
