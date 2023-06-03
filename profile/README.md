@@ -8,11 +8,11 @@ We understand the critical role that random numbers play in various domains, inc
 
 ## Features
 
-- True Physical Randomness: Our random numbers are derived from genuine physical phenomena, ensuring an unbiased and unpredictable nature.
-- Diverse Sources: We employ an array techniques to extract randomness from different natural processes, guaranteeing a broad range of generators and  distributions.
-- Seamless Integration: Our API provides an easy-to-use interface and supports various programming languages and platforms, making it effortless to integrate into your projects.
-- Statistical Analysis: You can access reports to ensure the quality and bias of the random numbers generated and gain deeper insights into their properties to validate their suitability for your specific use cases.
-- Biased Random Numbers: We also offer the option to generate biased random numbers that align with specific natural biases, eliminating the need for artificial bias implementation in algorithms, improving their efficiency and complexity.
+- True Physical Randomness:  Our random numbers are derived from genuine physical phenomena, ensuring an unbiased and unpredictable nature.
+- Diverse Sources: We employ an array of techniques to extract randomness from different natural processes, guaranteeing a broad range of generators and distributions.
+- Seamless Integration: Easy-to-use interface and support for various programming languages and platforms, making it effortless to integrate randomness into your projects.
+- Statistical Analysis: Access reports to ensure the quality and bias of the random numbers generated to gain deeper insights into their properties to validate their suitability for your specific use cases.
+- Biased Random Numbers: Option to generate biased random numbers that align with specific natural biases, eliminating the need for artificial bias implementation in algorithms, improving their efficiency and complexity.
 
 ## Applications
 
