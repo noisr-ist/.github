@@ -22,7 +22,7 @@ We understand the critical role that random numbers play in various domains, inc
 - Optimization: Simulating complex systems like markets, traffic flux or resource allocation
 - AI & Machine Learning: Generate weights for machine learning algorthims and neural networks
 - Games: Virtual environments and simulations that depend on creating random and dynamic responses
-- Financial Modeling: Simulation of market dluctuations and risk
+- Financial Modeling: Simulation of market fluctuations and risk
 - Physics: Generate random fluctuations in initial conditions for physical problems (ex. brownian motion, fluid mechanics...)
 
 ## Reach us
