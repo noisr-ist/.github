@@ -4,7 +4,7 @@
 
 ## About
 
-We understand the critical role that random numbers play in various domains, including cryptography, simulations, statistical analysis, and experimental research. We specialize in harnessing genuine physical processes to generate random numbers that exhibit true randomness, ensuring the utmost integrity and reliability for scientific applications.
+We understand the critical role that random numbers play in various domains in business and academia. This includes cryptography, simulations, statistical analysis, and experimental research. We are a team of physicisists and engineers specialized in harnessing genuine physical processes to generate random numbers that exhibit true randomness. Our goal is to ensure the utmost integrity and reliability for scientific applications.
 
 ## Features
 
@@ -27,5 +27,5 @@ We understand the critical role that random numbers play in various domains, inc
 
 ## Reach us
 
-For any inquiries, collaborations, or questions, please feel free to reach out to our team at antenna@noisr.com.
+Feel free to reach out to our team at antenna@noisr.com.
 We are excited to hear from you and provide the support you need.
